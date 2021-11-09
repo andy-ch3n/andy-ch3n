@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @andy-ch3n
-- 👀 I’m interested in JAVASCRIPT/HTML/CSS/REACT/NODEJS/ 
-- 🌱 I’m currently learning JAVASCRIPT/HTML/CSS
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Frontend and Fullstack engineering, as well as Data Analyzation. I have experience with React.js/Node/Express/Axios/PostgreSQL/MongoDB
 - 📫 How to reach me - adch3n@gmail.com
 
 <!---

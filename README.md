@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @andy-ch3n
-- 👀 I’m interested in Frontend and Fullstack engineering, as well as Data Analyzation. 
-- 👀 I have experience with React.js/Node/Express/Axios/PostgreSQL/MongoDB/Material-UI/Web3
+- 👀 I’m interested in Frontend and Fullstack engineering, as well as Data Analyzation. My hobbies include learning about Web3 and DeFi.
+- 👀 I have experience with React.js/Node/Express/Axios/PostgreSQL/MongoDB/Material-UI
 - 📫 How to reach me - adch3n@gmail.com
 
 <!---
